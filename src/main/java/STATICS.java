@@ -5,13 +5,13 @@ public class STATICS {
     //Wichtig damit das Programm auf die Twitter Application loggt.
 
     //Konsumer Key
-    public static String Consumer_Key = "j8zy17esiqNZIx1gzyMcxOUiT";
+    public static String Consumer_Key = "";
     //Konsumer Secret
-    public static String Consumer_Secret = "lBRIA0q6Ju3dtdRVjIXIRyPu82tYAHYYCcJeIZ7sumdoTaMPPS";
+    public static String Consumer_Secret = "";
     //Access Token
-    public static String Access_Token = "960160054287716353-ma9QYjWP0tc1NeQNVTuB5dHVB14Zzxy";
+    public static String Access_Token = "";
     //Acces Secret
-    public static String Access_Secret = "wHneAkX9FwI10QIVXZ9aNtlkvQZ8iEEvZerqsUKxQYwLE";
+    public static String Access_Secret = "";
 
     //-------------------------DEBUG--------------------
 
