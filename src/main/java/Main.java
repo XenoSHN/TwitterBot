@@ -20,7 +20,6 @@ public class Main {
         //Menü wird in die Konsole ausgegeben
         System.out.println("Bot Started\n" +
                 "1. Tweet senden:\n" +
-                "2. Bild via Link senden\n" +
                 "3. 5min-Pic-Bot starten\n" +
                 "4. Quit\n");
 
@@ -49,15 +48,8 @@ public class Main {
             cls();
             //Programm wird neu gestartet
             Main.main(args);
-
-
+            
         } else if (i == 2) {
-            cls();
-            System.out.println("Pic Link:");
-            cls();
-            //Programm wird neu gestartet
-            Main.main(args);
-        } else if (i == 3) {
             //Daily-Pic-Bot
 
             cls();
@@ -73,7 +65,7 @@ public class Main {
 
             Main.main(args);
 
-        } else if (i == 4) {
+        } else if (i == 3) {
             //Pic-Bot wird gestoppt
             timer.cancel();
 
