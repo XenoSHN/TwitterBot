@@ -48,9 +48,9 @@ public class Main {
             cls();
             //Programm wird neu gestartet
             Main.main(args);
-            
+
         } else if (i == 2) {
-            //Daily-Pic-Bot
+            //5min-Pic-Bot
 
             cls();
             //Timer für die zeitgesteuerte Loop
