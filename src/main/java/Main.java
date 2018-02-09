@@ -20,11 +20,12 @@ public class Main {
         //Menü wird in die Konsole ausgegeben
         System.out.println("Bot Started\n" +
                 "1. Tweet senden:\n" +
-                "3. 5min-Pic-Bot starten\n" +
-                "4. Quit\n");
+                "2. 5min-Pic-Bot starten\n" +
+                "3. Quit\n");
 
         //Zahl i wird die nächste Zahl die in die Konsole eingegeben wird
         i = input.nextInt();
+
 
         if (i == 1) {
             //Neue Variable(String) "msg" wird gesetzt und initialisiert
